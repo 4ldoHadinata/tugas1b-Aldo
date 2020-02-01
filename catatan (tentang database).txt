@@ -1,0 +1,3 @@
+database bernama tugas2.
+database sudah saya sediakan di folder ini jika ingin mengimport database
+atau juga bisa dengan membuat database baru dengan nama yang sama dan melakukan perintah php artisan migrate
